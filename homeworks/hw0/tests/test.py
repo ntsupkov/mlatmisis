@@ -1,5 +1,5 @@
 import unittest
-import import_ipynb  # noqa: F401
+import import_ipynb # noqa: F401
 from homework import hello  # type: ignore
 
 
